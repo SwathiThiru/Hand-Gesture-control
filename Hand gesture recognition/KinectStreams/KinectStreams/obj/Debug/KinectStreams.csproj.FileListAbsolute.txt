@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\Admin\Desktop\kinect\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb

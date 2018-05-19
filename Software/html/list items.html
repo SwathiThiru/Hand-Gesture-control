@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 	
+table {
+    font-family: arial, sans-serif;center
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h3>
+<form method=post action="/cgi-bin/example.cgi">
+<center>
+Available items:
+<select>
+<option selected>none</option>
+<option>chocolate</option>
+<option>stationary</option>
+<option>chips</option>
+<option>cookies</option>
+<option>option 6</option>
+<option>option 7</option>
+</select><br>
+</center>
+</form>
+</h3>
+
+<table><center>
+  <tr>
+    <th>ITEM</th>
+    <th>BRAND</th>
+    <th>PRICE</th>
+    <th>AVAILABILITY</th>
+  </tr>
+  <tr>
+    <td>Chips</td>
+    <td>Lays</td>
+    <td>Rs. 10</td>
+    <td>50</td>
+  </tr>
+  
+</center>  
+</table>
+
+</body>
+</html>

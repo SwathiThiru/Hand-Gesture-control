@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Enter Date of Birth:</p>
+
+<input id="date" required><input id="month" required><input id="year" required>
+
+<button type="button" onclick="myFunction()">Submit</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x,y,z, text;
+
+    // Get the value of the input field with id="numb"
+ 
+    
+    x = document.getElementById("date").value;
+    y = document.getElementById("month").value;
+    z = document.getElementById("year").value;
+
+   
+    // If x is Not a Number or less than one or greater than 10
+    if ((isNaN(x) || x < 1 || x > 31 || isNaN(y) || y < 1 || y > 12) || isNaN(y) || z < 1900 || z > 2018  {
+        text = "Input not valid";
+    } else {
+        text = "Input OK";
+    }
+    document.getElementById("date").innerHTML = text;
+}
+</script>
+
+</body>
+</html>

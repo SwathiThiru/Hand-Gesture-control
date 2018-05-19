@@ -1,0 +1,20 @@
+<div id="form-main">
+  <div id="form-div">
+  <link rel="stylesheet" type="text/css" href="page1css.css" media="screen" />
+    <form class="form" id="form1">
+      
+      <p class="user name">
+        <input name="user name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="User Name" id="User name" />
+      </p>
+      
+      <p class="Password">
+        <input name="Password" type="text" class="validate[required] feedback-input" id="Password" placeholder="Password" />
+      </p>
+      
+    
+      <div class="Login">
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+    </form>
+  </div>

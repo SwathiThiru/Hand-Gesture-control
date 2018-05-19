@@ -1,0 +1,101 @@
+
+.othernavbar{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#shopname> h1{
+	font-weight: bold;
+	font-size: 40px;
+	text-align: left;
+}
+
+#offers{
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#offers1{
+	color: #FF5722;
+	font-size: 30px;
+	font-weight: bold;
+	
+}
+
+#copyright{
+	width: 100%;
+	height: 200px;
+	background-color: #263238;
+}
+
+.footer{
+	display: flex;
+	margin-left: 420px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+}
+
+.vline{
+	width: 2px;
+	height: 60px;
+	background-color: #f2f2f2;
+}
+
+
+
+#about-main{
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#about1{
+	background-color: #F06292;
+	
+	padding-bottom: 1px;
+	
+}
+
+#about1 h3{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#about2{
+	background-color: #F8BBD0;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#contact-main{
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#contact1{
+	background-color: #7986CB;
+	
+	padding-bottom: 1px;
+	
+}
+
+#contact1 h3{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#contact2{
+	background-color: #C5CAE9;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#contact2 p{
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'Roboto', sans-serif;
+}
